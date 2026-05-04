@@ -2,7 +2,8 @@
 
 A self-hosted dashboard for managing test servers in a team environment. Built for developers who spend too much time pinging colleagues and ask "is server X free?"
 
-[image]
+<img width="1898" height="912" alt="facit ui" src="https://github.com/user-attachments/assets/8f56bdfa-703c-4887-a4af-7fc1e588c286" />
+
 
 ---
 
